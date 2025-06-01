@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "Broken",
   "license": "MIT",
   "dependencies": {
         "adm-zip": "^0.5.16",
